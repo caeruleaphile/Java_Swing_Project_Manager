@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/Lib" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files (1)/timingframework-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/miglayout-swing-11.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/miglayout-core-11.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/org-jdesktop-animation-timing-1.0-201002281504.jar/org-jdesktop-animation-timing-1.0-201002281504.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/src/Lib" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/org-jdesktop-animation-timing-1.0-201002281504.jar/org-jdesktop-animation-timing-1.0-201002281504.jar!/" recursive="false" />
+  </library>
+</component>

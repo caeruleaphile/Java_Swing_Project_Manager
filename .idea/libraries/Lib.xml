@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JAVA_SWING TASK_APP/out/production/JAVA_SWING TASK_APP/Lib/miglayout-swing-11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JAVA_SWING TASK_APP/out/production/JAVA_SWING TASK_APP/Lib/miglayout-core-11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JAVA_SWING TASK_APP/out/production/JAVA_SWING TASK_APP/Lib/timingframework-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
