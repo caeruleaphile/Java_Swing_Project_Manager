@@ -1,6 +1,5 @@
 package Entities;
 
-import java.io.Serializable;
 import java.time.LocalDate;
 import java.util.Random;
 import java.util.regex.Pattern;
@@ -8,7 +7,7 @@ import java.util.regex.Pattern;
 /**
  * Represents a user in the system.
  */
-public class User implements Serializable {
+public class User  {
     private final String id;
     private String username;
     private String password;
